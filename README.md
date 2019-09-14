@@ -6,3 +6,8 @@ Untuk menjalankan program, komputer harus terinstal JDK. Jika JDK sudah terinsta
 ```
 javac namafile.java
 ```
+
+2. Jalankan program dengan menggunakan java
+```
+java namafile
+```
