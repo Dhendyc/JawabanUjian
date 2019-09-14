@@ -1,11 +1,8 @@
-package belajarweb;
+//package belajarweb;
 
 public class Soal3 {
 	
 	public static void drawImage(int N) {
-	
-		
-		
 		
 		if (N%2 == 0) {
 			System.out.println("input harus ganjil!");

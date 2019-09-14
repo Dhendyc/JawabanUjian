@@ -1,4 +1,4 @@
-package belajarweb;
+//package belajarweb;
 
 public class Soal1 {
 	
